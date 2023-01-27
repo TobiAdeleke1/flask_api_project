@@ -36,3 +36,6 @@ When listing the Orders there should be an option to filter the response for a p
 2. Create a special endpoint for the metrics. 
 This endpoint doesn't accept any parameter just returns the discount percentage per product based on the orders
 
+## Newly Included File ##
+1. db_util.py : For managing database with sqlalchemy
+2. make_requests.py: To query api endpoints added to orders.py

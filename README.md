@@ -1,5 +1,3 @@
-# Backend Test #
-____
 
 As a new developer at SpeedyBoats, your first task is to help the operational team to manage orders 
 and create some metrics.
